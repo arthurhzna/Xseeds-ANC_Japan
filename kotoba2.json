@@ -1,0 +1,277 @@
+[
+  {
+    "japanese": "どこ",
+    "romaji": "doko",
+    "indonesian": "mana / di mana"
+  },
+  {
+    "japanese": "どこの",
+    "romaji": "doko no",
+    "indonesian": "dari mana / asal mana"
+  },
+  {
+    "japanese": "しゅっしん",
+    "romaji": "shusshin",
+    "indonesian": "asal / daerah asal"
+  },
+  {
+    "japanese": "なんさい",
+    "romaji": "nansai",
+    "indonesian": "berapa umur"
+  },
+  {
+    "japanese": "さい",
+    "romaji": "sai",
+    "indonesian": "tahun (satuan umur)"
+  },
+  {
+    "japanese": "いくつ",
+    "romaji": "ikutsu",
+    "indonesian": "berapa / berapa banyak"
+  },
+  {
+    "japanese": "おいくつ",
+    "romaji": "oikutsu",
+    "indonesian": "berapa usia (sopan)"
+  },
+  {
+    "japanese": "すむ",
+    "romaji": "sumu",
+    "indonesian": "tinggal / menetap"
+  },
+  {
+    "japanese": "すんでいます",
+    "romaji": "sunde imasu",
+    "indonesian": "tinggal / berdomisili"
+  },
+  {
+    "japanese": "それから",
+    "romaji": "sorekara",
+    "indonesian": "setelah itu / kemudian / lalu"
+  },
+  {
+    "japanese": "おしえる",
+    "romaji": "oshieru",
+    "indonesian": "memberi tahu / mengajari"
+  },
+  {
+    "japanese": "おしえて",
+    "romaji": "oshiete",
+    "indonesian": "beri tahu / ajari"
+  },
+  {
+    "japanese": "おしえてください",
+    "romaji": "oshiete kudasai",
+    "indonesian": "tolong beri tahu / tolong ajari"
+  },
+  {
+    "japanese": "かたち",
+    "romaji": "katachi",
+    "indonesian": "bentuk"
+  },
+  {
+    "japanese": "に",
+    "romaji": "ni",
+    "indonesian": "ke / di / pada"
+  },
+  {
+    "japanese": "ちゅうもくする",
+    "romaji": "chuumoku suru",
+    "indonesian": "memperhatikan / mencermati"
+  },
+  {
+    "japanese": "して",
+    "romaji": "shite",
+    "indonesian": "lakukan / bentuk -te dari suru"
+  },
+  {
+    "japanese": "かいわ",
+    "romaji": "kaiwa",
+    "indonesian": "percakapan"
+  },
+  {
+    "japanese": "もう いちど",
+    "romaji": "mou ichido",
+    "indonesian": "sekali lagi"
+  },
+  {
+    "japanese": "きく",
+    "romaji": "kiku",
+    "indonesian": "mendengar / mendengarkan / bertanya"
+  },
+  {
+    "japanese": "ききます",
+    "romaji": "kikimasu",
+    "indonesian": "mendengar / mendengarkan / bertanya"
+  },
+  {
+    "japanese": "きいて",
+    "romaji": "kiite",
+    "indonesian": "dengarkan / bentuk -te dari kiku"
+  },
+  {
+    "japanese": "みましょう",
+    "romaji": "mimashou",
+    "indonesian": "mari melihat / mari mencoba"
+  },
+  {
+    "japanese": "きいてみましょう",
+    "romaji": "kiite mimashou",
+    "indonesian": "mari coba dengarkan"
+  },
+  {
+    "japanese": "ききましょう",
+    "romaji": "kikimashou",
+    "indonesian": "mari mendengarkan"
+  },
+  {
+    "japanese": "です",
+    "romaji": "desu",
+    "indonesian": "adalah"
+  },
+  {
+    "japanese": "か",
+    "romaji": "ka",
+    "indonesian": "penanda pertanyaan"
+  },
+  {
+    "japanese": "ですか",
+    "romaji": "desu ka",
+    "indonesian": "apakah...? / ...?"
+  },
+  {
+    "japanese": "だれ",
+    "romaji": "dare",
+    "indonesian": "siapa"
+  },
+  {
+    "japanese": "いぬ",
+    "romaji": "inu",
+    "indonesian": "anjing"
+  },
+  {
+    "japanese": "たべる",
+    "romaji": "taberu",
+    "indonesian": "makan"
+  },
+  {
+    "japanese": "たべない",
+    "romaji": "tabenai",
+    "indonesian": "tidak makan"
+  },
+  {
+    "japanese": "たべた",
+    "romaji": "tabeta",
+    "indonesian": "sudah makan"
+  },
+  {
+    "japanese": "たべなかった",
+    "romaji": "tabenakatta",
+    "indonesian": "tidak makan (lampau)"
+  },
+  {
+    "japanese": "こども",
+    "romaji": "kodomo",
+    "indonesian": "anak"
+  },
+  {
+    "japanese": "ことば",
+    "romaji": "kotoba",
+    "indonesian": "kata / kosakata / bahasa / ungkapan"
+  },
+  {
+    "japanese": "つき",
+    "romaji": "tsuki",
+    "indonesian": "bulan"
+  },
+  {
+    "japanese": "どんな",
+    "romaji": "donna",
+    "indonesian": "seperti apa / bagaimana"
+  },
+  {
+    "japanese": "いみ",
+    "romaji": "imi",
+    "indonesian": "arti / makna"
+  },
+  {
+    "japanese": "だ",
+    "romaji": "da",
+    "indonesian": "adalah (bentuk informal)"
+  },
+  {
+    "japanese": "と",
+    "romaji": "to",
+    "indonesian": "bahwa"
+  },
+  {
+    "japanese": "おもいます",
+    "romaji": "omoimasu",
+    "indonesian": "berpikir / menurut saya"
+  },
+  {
+    "japanese": "どんな いみ だと おもいますか",
+    "romaji": "donna imi da to omoimasu ka",
+    "indonesian": "menurutmu apa artinya?"
+  },
+  {
+    "japanese": "たんじょうび",
+    "romaji": "tanjoubi",
+    "indonesian": "ulang tahun"
+  },
+  {
+    "japanese": "うみ",
+    "romaji": "umi",
+    "indonesian": "laut"
+  },
+  {
+    "japanese": "たいせつ",
+    "romaji": "taisetsu",
+    "indonesian": "penting / berharga"
+  },
+  {
+    "japanese": "てんき",
+    "romaji": "tenki",
+    "indonesian": "cuaca"
+  },
+  {
+    "japanese": "のむ",
+    "romaji": "nomu",
+    "indonesian": "minum"
+  },
+  {
+    "japanese": "きのう",
+    "romaji": "kinou",
+    "indonesian": "kemarin"
+  },
+  {
+    "japanese": "りょうり",
+    "romaji": "ryouri",
+    "indonesian": "masakan / memasak"
+  },
+  {
+    "japanese": "はは",
+    "romaji": "haha",
+    "indonesian": "ibu (ketika membicarakan ibu sendiri)"
+  },
+  {
+    "japanese": "かわいい",
+    "romaji": "kawaii",
+    "indonesian": "lucu / imut"
+  },
+  {
+    "japanese": "あね",
+    "romaji": "ane",
+    "indonesian": "kakak perempuan (ketika membicarakan kakak sendiri)"
+  },
+  {
+    "japanese": "ペット",
+    "romaji": "petto",
+    "indonesian": "hewan peliharaan"
+  },
+  {
+    "japanese": "おとうと",
+    "romaji": "otouto",
+    "indonesian": "adik laki-laki"
+  }
+]
