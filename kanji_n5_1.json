@@ -1,0 +1,145 @@
+{
+  "waktu": [
+    {
+      "kanji": "今",
+      "reading": "KON",
+      "meaning": "Sekarang"
+    },
+    {
+      "kanji": "今",
+      "reading": "ima",
+      "meaning": "Sekarang"
+    },
+    {
+      "kanji": "時",
+      "reading": "JI",
+      "meaning": "Waktu / Jam"
+    },
+    {
+      "kanji": "時",
+      "reading": "toki",
+      "meaning": "Waktu"
+    }
+  ],
+  "bulan": [
+    {
+      "kanji": "月",
+      "reading": "GETSU",
+      "meaning": "Senin"
+    },
+    {
+      "kanji": "月",
+      "reading": "tsuki",
+      "meaning": "Bulan"
+    },
+    {
+      "kanji": "年",
+      "reading": "NEN",
+      "meaning": "Tahun"
+    },
+    {
+      "kanji": "年",
+      "reading": "toshi",
+      "meaning": "Tahun"
+    }
+  ],
+  "hari": [
+    {
+      "kanji": "週",
+      "reading": "SHUU",
+      "meaning": "Minggu / Pekan"
+    },
+    {
+      "kanji": "月",
+      "reading": "GETSU",
+      "meaning": "Senin"
+    },
+    {
+      "kanji": "火",
+      "reading": "KA",
+      "meaning": "Selasa"
+    },
+    {
+      "kanji": "水",
+      "reading": "SUI",
+      "meaning": "Rabu"
+    },
+    {
+      "kanji": "木",
+      "reading": "MOKU",
+      "meaning": "Kamis"
+    }
+  ],
+  "nilai": [
+    {
+      "kanji": "一",
+      "reading": "ICHI, ITSU",
+      "meaning": "Satu"
+    },
+    {
+      "kanji": "二",
+      "reading": "NI",
+      "meaning": "Dua"
+    },
+    {
+      "kanji": "三",
+      "reading": "SAN",
+      "meaning": "Tiga"
+    },
+    {
+      "kanji": "四",
+      "reading": "SHI",
+      "meaning": "Empat"
+    },
+    {
+      "kanji": "五",
+      "reading": "GO",
+      "meaning": "Lima"
+    },
+    {
+      "kanji": "六",
+      "reading": "ROKU",
+      "meaning": "Enam"
+    },
+    {
+      "kanji": "七",
+      "reading": "SHICHI",
+      "meaning": "Tujuh"
+    },
+    {
+      "kanji": "八",
+      "reading": "HACHI",
+      "meaning": "Delapan"
+    },
+    {
+      "kanji": "九",
+      "reading": "KYUU, KU",
+      "meaning": "Sembilan"
+    },
+    {
+      "kanji": "十",
+      "reading": "JUU, JI",
+      "meaning": "Sepuluh"
+    },
+    {
+      "kanji": "百",
+      "reading": "HYAKU",
+      "meaning": "Seratus"
+    },
+    {
+      "kanji": "千",
+      "reading": "SEN",
+      "meaning": "Seribu"
+    },
+    {
+      "kanji": "万",
+      "reading": "MAN, BAN",
+      "meaning": "Sepuluh ribu"
+    },
+    {
+      "kanji": "円",
+      "reading": "EN",
+      "meaning": "Yen"
+    }
+  ]
+}
